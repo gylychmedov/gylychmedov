@@ -5,6 +5,6 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gylychmedov&theme=chartreuse-dark&repo=gylychmedov&hide_border=true)](https://github.com/gylychmedov/gylychmedov) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gylychmedov&theme=chartreuse-dark&hide_border=true)](https://github.com/ezkahan/ezkahan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gylychmedov&theme=chartreuse-dark&hide_border=true)](https://github.com/gylychmedov)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gylychmedov)
