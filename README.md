@@ -5,6 +5,8 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gylychmedov&theme=chartreuse-dark&repo=gylychmedov&hide_border=true)](https://github.com/gylychmedov/gylychmedov) -->
 
+[![wakatime](https://wakatime.com/badge/user/1b409bcd-8e07-4a9a-8bb3-8fa291335500.svg)](https://wakatime.com/@1b409bcd-8e07-4a9a-8bb3-8fa291335500)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gylychmedov&theme=chartreuse-dark&hide_border=true)](https://github.com/gylychmedov)
 ![Dagdan GitHub stats](https://github-readme-stats.vercel.app/api?username=gylychmedov&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
